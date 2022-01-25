@@ -347,6 +347,16 @@
       (net 8 "Net-(C5-Pad1)") (pinfunction "BYPASS") (pintype "input") (tstamp fcf42c33-a9b6-413e-b2bb-afa26b25d0c8))
     (pad "8" smd rect (at 2.711 -1.905 90) (size 0.65 1.528) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 20 "Net-(R3-Pad1)") (pinfunction "GAIN") (pintype "input") (tstamp a8cdbb80-7e90-4b2f-bb33-c851e5e186ee))
+    (model "C:/Users/Owner/Downloads/LIB_LM386MX-1_NOPB/LM386MX-1_NOPB/3D/LM386MX-1_NOPB.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Owner/Downloads/LIB_LM386MX-1_NOPB/LM386MX-1_NOPB/3D/LM386MX-1_NOPB.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical_SMD" (layer "F.Cu")
@@ -1360,6 +1370,16 @@
       (net 11 "Net-(C7-Pad1)") (pinfunction "BYPASS") (pintype "input") (tstamp de497ea3-ce68-4868-ba4c-8288fb8f0ef5))
     (pad "8" smd rect (at 2.711 -1.905 270) (size 0.65 1.528) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 21 "Net-(R4-Pad1)") (pinfunction "GAIN") (pintype "input") (tstamp 0f37f949-4ed1-42f8-853b-251bf5203511))
+    (model "C:/Users/Owner/Downloads/LIB_LM386MX-1_NOPB/LM386MX-1_NOPB/3D/LM386MX-1_NOPB.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Owner/Downloads/LIB_LM386MX-1_NOPB/LM386MX-1_NOPB/3D/LM386MX-1_NOPB.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder" (layer "F.Cu")
