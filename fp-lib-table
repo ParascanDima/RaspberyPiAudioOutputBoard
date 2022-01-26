@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "PCM1820IRTER")(type "Legacy")(uri "${KIPRJMOD}/Libs/footprints/PCM1820IRTER.mod")(options "")(descr ""))
+  (lib (name "LM386MX-1_NOPB")(type "Legacy")(uri "${KIPRJMOD}/Libs/footprints/LM386MX-1_NOPB.mod")(options "")(descr ""))
+)
